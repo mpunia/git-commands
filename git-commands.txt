@@ -3,3 +3,6 @@ git add . = For move into staging Area
 git commit -m "Commit Message" = For commiting for changes
 git status = Chech the progress of file
 git log = Check all the commit till now
+git remote add origin "repo-link" =  to add the URL where we want to push our code
+git push -u origin master = to push code into that URL or Repository
+git remote -v = To check URL you have added
