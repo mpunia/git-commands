@@ -1,0 +1,5 @@
+git init = For Initialisation
+git add . = For move into staging Area
+git commit -m "Commit Message" = For commiting for changes
+git status = Chech the progress of file
+git log = Check all the commit till now
